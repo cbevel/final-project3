@@ -1,27 +1,19 @@
-# FinalProject3
+final-Project 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
+# **Overview**
 
-## Development server
+This project is an online notebook that will allow users to be able to write, take note, jot a quick note, or anything they want to write. Users will have to create an account so that they can keep track of their posts and access them at a later time. Users will also have the ability to change backgroung colors and fonts, including size and color.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+The idea of creating an online notebook came from the idea of wanting writers to have a space to write down their creative thoughts without the complexity of creating a blog. I want to keep my application simple but creative while yet still keeping with theme of being digital as most things are now-a-days.
 
-## Code scaffolding
+# **Features**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Users will be able to create an account and log in to access any create notebook entries Users will be able to write a blog post, take notes, share a thought, write poetry, etc Users will have the ability to change the CSS of the pages
 
-## Build
+# **What I Learned**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+I will be learning how to make a webpage more interactive for users to be able to make changes as they so choose. I will be learning how to piece front end and back end programs while I connect an anuglar framework to an API.
 
-## Running unit tests
+# **technologies used**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+HTML CSS JavaScript Angula Java Spring Boot MySQ
