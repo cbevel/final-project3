@@ -10,12 +10,16 @@ h1{
     color: black;
     text-align: center;
     font-size: 10vh;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     margin-bottom: 0%;
-    font-weight: 100;
+    font-weight: 1500;
 }
 
 h4{
     text-align: center;
 
+}
+
+.button{
+    align-content: center;
 }
