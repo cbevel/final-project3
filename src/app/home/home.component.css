@@ -1,25 +1,11 @@
-.image{
-    background-image: url("/assets/whitespace-notebook.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
+.logo{
+
+    background-image: url("/assets/Yellow\ Splat\ Children\ &\ Kids\ Logo\ \(1\).png");
     height: 100vh;
-    padding: 1rem;
-}
-
-h1{
-    color: black;
-    text-align: center;
-    font-size: 10vh;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    justify-content: right;
+    margin-left: 30%;
     margin-bottom: 0%;
-    font-weight: 1500;
 }
 
-h4{
-    text-align: center;
-
-}
-
-.button{
-    align-content: center;
-}
