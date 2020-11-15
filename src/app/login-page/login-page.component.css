@@ -8,18 +8,24 @@
 
 #login-box {
     background-color: #70DADF; 
-    height: 50%;
-    width: 75%;
+    height: 350px;
+    width: 30vh;
     text-align: center;
-    margin: 30vh 50vh;
-    padding: 50px 50px;
-    box-shadow: 10px 10px rgb(221, 216, 216);
+    justify-content: center;
+    margin: 0;
+    padding: 100px 75px;
+    box-shadow: 10px 10px grey;
+}
+
+#password{
+
 }
 
 .input{
     text-align: center;
 }
 
-.sign-in{
-    background-color: white;
+#signup-box{
+    background-color: #70DADF;
+    width: auto;
 }

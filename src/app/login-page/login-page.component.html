@@ -8,7 +8,19 @@
         <input #newPassword (keyup.enter)='true' type='text' placeholder="Password" class="input"/>
     </div>
     <div id="sign_in-button">
-        <button (click)='true' class="sign-in">Sign In</button>
+        <button (click)='true' mat-raised-button class="sign-in">Sign In</button>
+    </div>
+    <div id="signup-box">
+        <br>
+        <br>
+        <button (click)='true' class="sign-up">sign Up</button>
+    </div>
+    <div>
+        <mat-chip-list class="mat-chip-list-stacked" aria-label="Color selection">
+            <mat-chip *ngFor="let chip of availableColors" selected [color]="chip.color">
+              {{chip.name}}
+            </mat-chip>
+          </mat-chip-list>
     </div>
 </div>
 
