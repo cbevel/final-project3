@@ -1,7 +1,21 @@
-.logo{
+/* .logo{
     background-image: url("/assets/Yellow\ Splat\ Children\ &\ Kids\ Logo\ \(1\).png");
     position: absolute;
     left: -10px; 
     top: auto;
 
+} */
+
+#login-box {
+    background-color: blue;
+    height: 50%;
+    width: 50%;
+    text-align: center;
+    margin: 50vh;
+    margin-top: 30vh;
+    padding: 30px;
+}
+
+.username{
+    
 }

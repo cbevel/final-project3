@@ -1,1 +1,16 @@
-<div class="logo"></div>
+<!-- <div class="logo"></div> -->
+
+<div id="login-box">
+    <div class="username">
+        <input #newUsername (keyup.enter)='true' type='text' placeholder="User Name"/>
+    </div>
+
+    <div class="password">
+       
+        <input #newPassword (keyup.enter)='true' type='text' placeholder="Password"/>
+    </div>
+    <div class="sign_in-button">
+        <button (click)='true'>Sign In</button>
+    </div>
+</div>
+
