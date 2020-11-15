@@ -7,15 +7,19 @@
 } */
 
 #login-box {
-    background-color: blue;
+    background-color: #70DADF; 
     height: 50%;
-    width: 50%;
+    width: 75%;
     text-align: center;
-    margin: 50vh;
-    margin-top: 30vh;
-    padding: 30px;
+    margin: 30vh 50vh;
+    padding: 50px 50px;
+    box-shadow: 10px 10px rgb(221, 216, 216);
 }
 
-.username{
-    
+.input{
+    text-align: center;
+}
+
+.sign-in{
+    background-color: white;
 }
