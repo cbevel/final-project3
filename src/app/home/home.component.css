@@ -1,11 +1,7 @@
-.logo{
-
-    background-image: url("/assets/Yellow\ Splat\ Children\ &\ Kids\ Logo\ \(1\).png");
+body{
+    background-image: url("/assets/Cream\ and\ Brown\ Modern\ Quiz\ Education\ Presentation\ \(1\).png ");
     height: 100vh;
-    background-size: 75%;
-    background-repeat: no-repeat;
-    justify-content: center;
-    margin-left: 23%;
-    margin-bottom: 0%;
+    /* margin-left: 170px; */
+    background-size: contain;
+    background-repeat: no-repeat;    
 }
-
